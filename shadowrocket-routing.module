@@ -1,0 +1,14 @@
+[Rule]
+
+# tiktok
+DOMAIN-KEYWORD,tiktok,PROXY
+DOMAIN-SUFFIX,tiktokcdn.com,PROXY
+DOMAIN-SUFFIX,ibyteimg.com,PROXY
+DOMAIN-SUFFIX,byteoversea.com,PROXY
+
+# Russia
+DOMAIN-SUFFIX,ru,DIRECT
+GEOIP,RU,DIRECT
+
+# other
+FINAL,PROXY
