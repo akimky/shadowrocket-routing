@@ -1,3 +1,8 @@
+[General]
+
+name = Akim Routing
+desc = Akim routing rule set
+
 [Rule]
 
 # tiktok
