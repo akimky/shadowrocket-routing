@@ -12,6 +12,3 @@ DOMAIN-SUFFIX,byteoversea.com,PROXY
 # Russia
 DOMAIN-SUFFIX,ru,DIRECT
 GEOIP,RU,DIRECT
-
-# other
-FINAL,PROXY
